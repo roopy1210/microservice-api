@@ -1,0 +1,8 @@
+# Project exclude paths
+/aggregator-service/target/
+/grpc-square-service/target/
+/proto/target/
+/rest-square-service/target/
+/thrift/target/
+/thrift-square-service/target/
+/webflux-square-service/target/
